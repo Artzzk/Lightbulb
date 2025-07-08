@@ -62,14 +62,7 @@ this resource over the past 5+ years.
 
 The following large bots are all using Lightbulb in production:
 
-<table>
-    <tbody>
-        <tr>
-            <td align="center" valign="top" width="14.28%"><a href="https://invite-tracker.com"><img src="https://cdn.invite-tracker.com/logo.png" width="100px;" height="100px;" alt="Invite Tracker"/><br /><sub><b>Invite Tracker</b></sub></a></td>
-            <td align="center" valign="top" width="14.28%"><a href="https://nmarkov.xyz"><img src="https://nmarkov.xyz/logo.png" width="100px;" height="100px;" alt="nMarkov"/><br /><sub><b>nMarkov</b></sub></a></td>
-        </tr>
-    </tbody>
-</table>
+
 
 Do you own a large bot using Lightbulb? Mention `@thomm.o`  or submit a pull request to add your bot to the list!
 
